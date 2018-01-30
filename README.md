@@ -3,6 +3,12 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+In the project I have implmented a Model Predictive Control (MPC) to drive the car around the track [(video can be found here)](https://www.youtube.com/watch?v=w-GskIdxlNI).
+
+For Udacity's question please look at the file writeup.md
+
+---
+
 ## Dependencies
 
 * cmake >= 3.5
